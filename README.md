@@ -38,7 +38,7 @@ Just clone the repository and plug it into your server.
 
 ## 📁 Project Structure
 
-ich_fivemlogsystem/
-├── fxmanifest.lua # FiveM resource manifest
-├── server.lua # Core logging logic
-└── README.md # Project documentation
+ich_fivemlogsystem/<br>
+├── fxmanifest.lua # FiveM resource manifest<br>
+├── server.lua # Core logging logic<br>
+└── README.md # Project documentation<br>
