@@ -42,3 +42,12 @@ ich_fivemlogsystem/<br>
 ├── fxmanifest.lua # FiveM resource manifest<br>
 ├── server.lua # Core logging logic<br>
 └── README.md # Project documentation<br>
+
+### 📦 Installation
+
+1. Clone or download the repository.
+2. Place the `ich_fivemlogsystem` folder in your `resources` directory.
+3. Add the following line to your `server.cfg`:
+
+```cfg
+ensure ich_fivemlogsystem
