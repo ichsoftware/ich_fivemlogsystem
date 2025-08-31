@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua-99%25-blueviolet?logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/FiveM-1%25-orange?logo=fivem&logoColor=white" alt="FiveM" />
+  <img src="https://img.shields.io/badge/Lua-100%25-blueviolet?logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/github/license/ichsoftware/ich_fivemlogsystem" alt="License" />
 </p>
 
